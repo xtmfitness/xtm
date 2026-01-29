@@ -1,0 +1,1 @@
+Ensure gallery images use 3:2 aspect ratio and object-fit: cover to match placeholders.
